@@ -1,11 +1,12 @@
-# Oi!
+# Oi! 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
 
 Sou o John, Licenciado em Física e agora iniciando no mundo do desenvolvimento!
 
 No presente curso Análise e Desenvolvimento de Sistemas na UNISINOS, também estou estudando nos programas:
-
+#### - Hiring Coders V-TEX
+#### - Santander Bootcamp | Fullstack Developer
 <br><br>
 📍  Esteio, RS - Brasil <br>
 
