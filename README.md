@@ -1,4 +1,4 @@
-# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40px">
+# Oi!
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" align="right">
 
@@ -18,14 +18,14 @@ No presente curso Análise e Desenvolvimento de Sistemas na UNISINOS, também es
 
 ## Status 📃
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=vinixiii&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&theme=buefy" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinixiii&layout=compact&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&langs_count=6&theme=buefy" /> <br>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Johnzord&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&theme=buefy" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnzord&layout=compact&locale=pt-BR&show_icons=true&hide_border=true&hide_title=true&langs_count=6&theme=buefy" /> <br>
 
 ## Encontre-me 👇🏼
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:o.johncorrea@gmail.com)](mailto:o.johncorrea@gmail.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-oliveira/)](https://www.linkedin.com/in/john-oliveira/)
 
 <!--
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:o.johncorrea@gmail.com)](mailto:o.johncorrea@gmail.com/)
 **XXXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
