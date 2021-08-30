@@ -4,9 +4,7 @@
 
 Sou o John, Licenciado em Física ⚛️ e agora iniciando no mundo do desenvolvimento! 💻
 
-No presente curso Análise e Desenvolvimento de Sistemas na UNISINOS, também estou participando e aprendendo muito nos programas:
-#### - Hiring Coders V-TEX
-#### - Santander Bootcamp | Fullstack Developer
+No presente curso Análise e Desenvolvimento de Sistemas na UNISINOS
 <br><br>
 📍  Esteio, RS - Brasil <br>
 
