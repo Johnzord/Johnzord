@@ -4,7 +4,7 @@
 
 Sou o John, Licenciado em Física ⚛️ e agora iniciando no mundo do desenvolvimento! 💻
 
-No presente curso Análise e Desenvolvimento de Sistemas na UNISINOS
+No presente, curso Análise e Desenvolvimento de Sistemas na UNISINOS
 <br><br>
 📍  Esteio, RS - Brasil <br>
 
