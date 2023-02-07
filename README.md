@@ -14,6 +14,7 @@ No presente curso Análise e Desenvolvimento de Sistemas na UNISINOS
 ![CSS3](https://img.shields.io/badge/CSS-2D9CDB?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-32363E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Salesforce](https://img.shields.io/badge/React-32363E?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Status 📃
 
