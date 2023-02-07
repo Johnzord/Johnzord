@@ -6,8 +6,6 @@ Sou o John, Licenciado em Física ⚛️ e agora iniciando no mundo do desenvolv
 
 No presente, curso Análise e Desenvolvimento de Sistemas na UNISINOS
 <br><br>
-📍  Esteio, RS - Brasil <br>
-
 ## Atualmente estudo as seguintes Tecnologias 🚀🚀🚀🚀
   
 ![HTML5](https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=HTML5&logoColor=white)
